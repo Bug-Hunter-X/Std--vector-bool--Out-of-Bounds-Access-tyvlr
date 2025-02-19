@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in C++ when working with `std::vector<bool>`. Accessing elements beyond the valid range of indices can lead to unpredictable behavior, making it difficult to debug. The `bug.cpp` file showcases the error, while `bugSolution.cpp` provides a safer alternative.
